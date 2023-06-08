@@ -9,3 +9,5 @@ Quick definitions for commonly used acronyms and abbreviations
 - BE = Backend
 - GH = GitHub
 - PR = Pull Request
+- EF = Empowered Futures
+- MVP = Minimum Viable Product

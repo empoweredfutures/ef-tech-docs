@@ -8,6 +8,8 @@ This repo provides documentation for the EF tech stacks as well as onboarding an
 
 ### [Contributing](/contributing.md)
 
+### [Mentorship Platform](/mentorship-platform.md)
+
 ### [Best Practices](/best-practices.md)
 
 ### [Glossary](/glossary.md)

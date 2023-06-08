@@ -6,7 +6,7 @@ This page details key pre-requisites to comply with before writing and submittin
 
 VSCode is the editor majority of the developers on the team are using and this document will assuming you are also using it
 
-you are welcome to use other editors buy you'll be on your own for figuring out how to gain the same level of features covered here in your editor
+you are welcome to use other editors but you'll be on your own for figuring out how to gain the same level of features covered here in your editor
 
 ### Extensions
 

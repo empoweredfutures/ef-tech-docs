@@ -11,3 +11,4 @@ Quick definitions for commonly used acronyms and abbreviations
 - PR = Pull Request
 - EF = Empowered Futures
 - MVP = Minimum Viable Product
+- PG / PGSQL = Postgres / PostgreSQL

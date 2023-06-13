@@ -10,14 +10,18 @@ need to take to begin working with the rest of the team
    Slack is used as the main method of communication within the
    organization
 
-   there is also a mobile app for Slack that can be used if you
+   There is also a mobile app for Slack that can be used if you
    prefer
 
    [Slack Link](https://join.slack.com/t/empowered-futures/shared_invite/zt-1hxgpij6a-J93vroAa9AfuHZhc4UZGog)
 
+   Once joined please introduce yourself in either `#general` or `#technology-and-innovation` channel
+
+   Please also join the `#dev-standups` channel to be included in the weekly async standup message. each week the bot will message you and ask what you've been up to.
+
 2. Join the Trello
 
-   You'll have access to trello with your EF google account
+   You'll have access to Trello with your EF google account
 
    Trello is used by the development team to track tasks that need to
    be accomplished week by week

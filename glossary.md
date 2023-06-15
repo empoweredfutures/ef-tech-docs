@@ -12,3 +12,6 @@ Quick definitions for commonly used acronyms and abbreviations
 - EF = Empowered Futures
 - MVP = Minimum Viable Product
 - PG / PGSQL = Postgres / PostgreSQL
+- GQL = GraphQL
+- DRY = Don't repeat yourself
+- WET = Write everything twice

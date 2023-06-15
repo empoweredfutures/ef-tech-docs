@@ -13,3 +13,5 @@ This repo provides documentation for the EF tech stacks as well as onboarding an
 ### [Best Practices](/best-practices.md)
 
 ### [Glossary](/glossary.md)
+
+### [GraphQL TLDR](/graphql-tldr.md)

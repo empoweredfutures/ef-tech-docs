@@ -14,8 +14,7 @@ REST:
   }, [])
 ```
 
-- does not have an error state
-- does not have a loading boolean
+- does not have error or loading states
 - over-fetches user data, it's not likely that every property on the user is needed for this component
 - related data is needed (each users tasks) but cannot be returned from `/api/users`
 - logs the full error to the client, could contain sensitive information, does not show the user anything went wrong

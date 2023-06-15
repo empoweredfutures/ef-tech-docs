@@ -88,7 +88,7 @@ REST:
 - not clear on what response / HTTP code the backend will return
 - calling multiple `setState`'s at once will cause multiple renders
 - data being sent is not validated or typed
-- `accessToken` is injected into the request header rather than just being a cookie or handled by a fetch context
+- `accessToken` is manually injected into the request header rather than being handled at a higher level or elsewhere automatically
 
 ```
 GraphQL:

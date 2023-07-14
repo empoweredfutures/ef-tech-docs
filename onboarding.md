@@ -47,8 +47,6 @@ need to take to begin working with the rest of the team
    Admins:
 
    - Ricardo Maharaj
-   - Roland Mackintosh
-   - Kelsey Hall
 
 4. Attend the Weekly Meetings
 

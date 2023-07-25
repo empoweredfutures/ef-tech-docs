@@ -28,7 +28,11 @@ need to take to begin working with the rest of the team
 
    Each week's tasks are referred to as a _sprint_
 
-   [Trello Link](https://trello.com/invite/b/YYDqebhj/ATTI255eb7190978b439f0f2b7274ba2e46a16D7028D/mentorship-platform)
+   The mentorship platform and the task management app have different boards
+
+   [Trello Mentorship Platform Board Invite Link](https://trello.com/invite/b/YYDqebhj/ATTI255eb7190978b439f0f2b7274ba2e46a16D7028D/mentorship-platform)
+
+   [Trello Task Management App Board Invite Link](https://trello.com/invite/b/eTfU1pUA/ATTIedd9406c37d6ec6a3e0b61d859dcdc19F554C18A/task-management-app)
 
 3. Join the GitHub Repo's
 

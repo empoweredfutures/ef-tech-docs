@@ -52,9 +52,9 @@ you are welcome to use other editors but you'll be on your own for figuring out 
 
 Once you have access to a repo you can clone it locally and start coding. Cloning can be done with the `git clone` command or with github desktop
 
-You'll need a `.env` file for the project to run correctly, you can find these files on slack in the `pinned` messages, check `#backend` for the main project's `.env` and check `#internal-project` for the task management app's `.env` file
+You'll need a `.env` file for some of the repos to run correctly, you can find these files on your EF google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`
 
-`.env` files are typically only for backend repos but in the case of the internal project, both the backend and frontend are a single repo
+`.env` files are typically only for backend repos but in the case of the task management app, both the backend and frontend are a single repo
 
 ### Branching
 

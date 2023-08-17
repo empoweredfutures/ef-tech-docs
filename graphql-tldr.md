@@ -4,14 +4,16 @@
 
 getting a list of users and their tasks:
 
-```
 REST:
-  const [users, setUsers] = useState<User[]>([])
-  useEffect(() => {
-    axios.get<User[]>("/api/users")
-      .then(res => setUsers(res.data))
-      .catch(console.error)
-  }, [])
+
+```tsx
+const [users, setUsers] = useState<User[]>([])
+useEffect(() => {
+  axios
+    .get<User[]>('/api/users')
+    .then((res) => setUsers(res.data))
+    .catch(console.error)
+}, [])
 ```
 
 - does not have error or loading states
@@ -28,10 +30,12 @@ to then get the users tasks with this approach you'd have to map over every user
 - will very likely over-fetch the users tasks as well
 - overall this is `On+1`, where `n` is the number of users
 
-```
 GraphQL:
-  const [res, refresh] = useQuery({
-    query: gql`{
+
+```tsx
+const [res, refresh] = useQuery({
+  query: gql`
+    {
       users {
         id
         name
@@ -45,8 +49,9 @@ GraphQL:
           priority
         }
       }
-    }`
-  })
+    }
+  `,
+})
 ```
 
 - fetches exactly what is required for the component, no more or less
@@ -64,23 +69,26 @@ all data will need to be relational to some extent in any application, gql exist
 
 creating a task:
 
-```
 REST:
-  function createTask() {
-    axios.post(
-    "/api/tasks",
-    { name, description },
-    { headers: { Authorization: `bearer ${accessToken}` } })
-      .then(res => {
-        setSuccess(true)
-        setError(false)
-      })
-      .catch(e => {
-        console.error(e)
-        setSuccess(false)
-        setError(true)
-      })
-  }
+
+```tsx
+function createTask() {
+  axios
+    .post(
+      '/api/tasks',
+      { name, description },
+      { headers: { Authorization: `bearer ${accessToken}` } },
+    )
+    .then((res) => {
+      setSuccess(true)
+      setError(false)
+    })
+    .catch((e) => {
+      console.error(e)
+      setSuccess(false)
+      setError(true)
+    })
+}
 ```
 
 - need to manually have states for error and success
@@ -89,13 +97,14 @@ REST:
 - data being sent is not validated or typed
 - `accessToken` is manually injected into the request header rather than being handled at a higher level or elsewhere automatically
 
-```
 GraphQL:
-  const [res, createTask] = useMutation(gql`
-    mutation ($name: String!, $description: String) {
-      createTask(name: $name, description: $description)
-    }
-  `)
+
+```tsx
+const [res, createTask] = useMutation(gql`
+  mutation ($name: String!, $description: String) {
+    createTask(name: $name, description: $description)
+  }
+`)
 ```
 
 - clear what data is needed and what type

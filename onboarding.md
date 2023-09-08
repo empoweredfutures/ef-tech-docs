@@ -46,11 +46,13 @@ need to take to begin working with the rest of the team
    You don't need access to all these repos just the ones you intend
    to work on
 
-   For access to a repo please message an admin on Slack and provide them with your github username
+   For access to a repo please mention (`@`) an admin on Slack in the #onboarding-devs channel and provide them with your github username
 
    Admins:
 
    - Ricardo Maharaj
+   - Jennifer Pelz
+   - Jamie Pantling
 
 4. Attend the Weekly Meetings
 

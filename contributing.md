@@ -1,12 +1,18 @@
 # Contributing
 
-This page details key pre-requisites to comply with before writing and submitting code
+To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/YYDqebhj/mentorship-platform) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app).
+
+You'll see a To-Do list. Feel free to add yourself to a card in the To-Do list (click on the card and add yourself as a mentor - or just hover over the card and press spacebar). Then move it the Doing list.
+
+That's it - you can make a branch (see below) and get to work!
+
+Before you get started, below are some key pre-requisites we all have to comply with before writing and submitting code.
 
 ## Editor Config
 
-VSCode is the editor majority of the developers on the team are using and this document will assuming you are also using it
+VSCode is the editor majority of the developers on the team are using and this document will assuming you are also using it.
 
-you are welcome to use other editors but you'll be on your own for figuring out how to gain the same level of features covered here in your editor
+You are welcome to use other editors but you'll have tofigure out how to gain the same level of features covered here in your editor.
 
 ### Extensions
 

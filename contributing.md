@@ -1,6 +1,6 @@
 # Contributing
 
-To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/YYDqebhj/mentorship-platform) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app). If you're not a member yet, check out the [onboarding instructions](https://github.com/empoweredfutures/ef-tech-docs/blob/main/onboarding.md) for the invite links.
+To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/YYDqebhj/mentorship-platform) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app). If you're not a member yet, the invite links are in the [onboarding instructions](https://github.com/empoweredfutures/ef-tech-docs/blob/main/onboarding.md).
 
 You'll see a To-Do list. Feel free to add yourself to a card in the To-Do list (click on the card and add yourself as a mentor - or just hover over the card and press spacebar). Then move it the Doing list.
 

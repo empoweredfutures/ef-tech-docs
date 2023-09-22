@@ -56,48 +56,54 @@ You are welcome to use other editors but you'll have tofigure out how to gain th
 
 ### Cloning
 
-Once you have access to a repo you can clone it locally and start coding. Cloning can be done with the `git clone` command or with github desktop
+Once you have access to a repo you can clone it locally and start coding. Cloning can be done with the `git clone` command or with github desktop.
 
-You'll need a `.env` file for some of the repos to run correctly, you can find these files on your EF google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`
+You'll need a `.env` file for some of the repos to run correctly, you can find these files on your EF google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`.
 
-`.env` files are typically only for backend repos but in the case of the task management app, both the backend and frontend are a single repo
+`.env` files are typically only for backend repos but in the case of the task management app, both the backend and frontend are a single repo.
 
 ### Branching
 
-Once you're ready to commit changes you'll need to create a branch
+Once you're ready to make some changes you'll need to create a branch first.
 
-VSCode provides git integration automatically, you can click the
+VSCode provides git integration automatically: you can click the
 git branch button in the bottom left and choose `Create new branch`
 
 The branch naming convention for both backend and frontend is
-`MMDD-<meaningful-name>`
+`MMDD-<meaningful-name>`.
 
-Once a branch is created you can safely commit to it, **never commit to main / development directly, always commit to your own branch**
+Once a branch is created you can safely commit to it, **never commit to main or development directly - always commit to your own branch**.
+
+When you're ready to push your code to the remote repo, your command should look something like this:
+
+```
+git push origin 0623-add-widget-feature
+```
 
 ### Making a PR
 
-When you're finished with your ticket you can then open a Pull Request on github
+When you're finished with your ticket you can then open a Pull Request on github.
 
-Opening the repo's github page in a browser after committing will show a button to quickly make a PR with your branch, you can also make a PR directly in VSCode if you have the extension installed
+Opening the repo's github page in a browser after committing will show a button to quickly make a PR with your branch, you can also make a PR directly in VSCode if you have the extension installed.
 
-Naming the PR the same name as the branch is acceptable if the branch name is meaningful enough
+Naming the PR the same name as the branch is acceptable if the branch name is meaningful enough.
 
-You should also write a description for your PR and provide additional info (such as links to design pages or trello tickets) to help reviewers understand your work / changes, if your PR depends on another PR or a backend change be sure to make note of this
+You should also write a description for your PR and provide additional info (such as links to design pages or trello tickets) to help reviewers understand your work / changes, if your PR depends on another PR or a backend change be sure to make note of this.
 
-Take advantage of the many labels available on the GitHub repo to add descriptors such as `needs reviewer`, `not ready yet`, or `dependency` to provide quick information to reviewers
+Take advantage of the many labels available on the GitHub repo to add descriptors such as `needs reviewer`, `not ready yet`, or `dependency` to provide quick information to reviewers.
 
-Once you've posted your PR for review feel free to notify other devs on slack with a link to get some eyes on your work
+Once you've posted your PR for review feel free to notify other devs on slack with a link to get some eyes on your work.
 
 ### Merging a PR
 
-If your branch is out of date with `main` or if you have merge conflicts you'll need to pull the `main` branch into with yours and resolve conflicts
+If your branch is out of date with `main` or if you have merge conflicts you'll need to pull the `main` branch into with yours and resolve conflicts.
 
-Pay close attention when resolving conflicts as it's possible that you may overwrite or undo a teammates work
+Pay close attention when resolving conflicts as it's possible that you may overwrite or undo a teammates work.
 
-You must receive 2 approvals from teammates to merge your PR to `main`
+You must receive 2 approvals from teammates to merge your PR to `main`.
 
-You are not allowed to be a reviewer on a PR that you have worked on / committed to, exceptions can be made if your contributions are small or negligible
+You are not allowed to be a reviewer on a PR that you have worked on / committed to, exceptions can be made if your contributions are small or negligible.
 
-Anyone on the team is allowed to merge a PR if the PR has 2 approvals
+Anyone on the team is allowed to merge a PR if the PR has 2 approvals.
 
-when merging it is preferred that you use github's `squash and merge` function to keep the number of commits on the `main` branch low
+When merging it is preferred that you use github's `squash and merge` function to keep the number of commits on the `main` branch low.

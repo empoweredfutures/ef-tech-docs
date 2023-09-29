@@ -5,7 +5,7 @@ need to take to begin working with the rest of the team
 
 1. Join the EF Slack
 
-   You'll have access to this Slack with your EF Google account
+   You'll have access to this Slack with your EF Google account. Please make sure you join with that email address.
 
    Slack is used as the main method of communication within the
    organization
@@ -15,11 +15,19 @@ need to take to begin working with the rest of the team
 
    [Slack Link](https://join.slack.com/t/empowered-futures/shared_invite/zt-1hxgpij6a-J93vroAa9AfuHZhc4UZGog)
 
-   Once joined please introduce yourself in either `#general` or `#technology-and-innovation` channel
+   Please join the following channels:
 
-   Please also join the `#dev-standups` channel to be included in the weekly async standup message. each week the bot will message you and ask what you've been up to.
+   - `#technology-and-innovation`
+   - `#onboarding-devs`
+   - `#dev-standups`
 
-2. Join the Trello
+   Once you're assigned to specific projects, you'll be able to join more specific channels for those.
+
+   **Once joined please introduce yourself in the `#technology-and-innovation` channel**
+
+   Once you've joined the `#dev-standups` channel you'll be included in the weekly async standup message. each week the bot will message you and ask what you've been up to.
+
+1. Join the Trello
 
    You'll have access to Trello with your EF google account
 
@@ -34,7 +42,7 @@ need to take to begin working with the rest of the team
 
    [Trello Task Management App Board Invite Link](https://trello.com/invite/b/eTfU1pUA/ATTIedd9406c37d6ec6a3e0b61d859dcdc19F554C18A/task-management-app)
 
-3. Join the GitHub Repo's
+1. Join the GitHub Repos
 
    There are multiple repositories that are under active development
    within the IT team
@@ -46,15 +54,15 @@ need to take to begin working with the rest of the team
    You don't need access to all these repos just the ones you intend
    to work on
 
-   For access to a repo please mention (`@`) an admin on Slack in the #onboarding-devs channel and provide them with your github username
+   For access to a repo please mention (`@`) a Github admin on Slack in the #onboarding-devs channel and provide them with your github username
 
-   Admins:
+   Github admins:
 
    - Ricardo Maharaj
    - Jennifer Pelz
    - Jamie Pantling
 
-4. Attend the Weekly Meetings
+1. Attend the Weekly Meetings
 
    Your EF Google Calendar will have weekly meeting events
 
@@ -62,6 +70,6 @@ need to take to begin working with the rest of the team
 
    - Tuesday @ 6:30PM EST, Tech and Innovation Sync Up
 
-5. Contributing Code
+1. Contributing Code
 
    continued on [/contributing.md](/contributing.md)

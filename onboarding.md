@@ -40,6 +40,8 @@ need to take to begin working with the rest of the team
 
    [Trello Mentorship Platform Board Invite Link](https://trello.com/invite/b/YYDqebhj/ATTI255eb7190978b439f0f2b7274ba2e46a16D7028D/mentorship-platform)
 
+   [Trello Mentorship Platform Rewrite Board Invite Link](https://trello.com/invite/b/U4Hb1AED/ATTIb3604045753fc7673e72cf433206e9fa6F59D76E/mentorship-platform-rewrite)
+
    [Trello Task Management App Board Invite Link](https://trello.com/invite/b/eTfU1pUA/ATTIedd9406c37d6ec6a3e0b61d859dcdc19F554C18A/task-management-app)
 
 1. Join the GitHub Repos
@@ -49,6 +51,7 @@ need to take to begin working with the rest of the team
 
    - [Mentorship Platform Frontend](https://github.com/empoweredfutures/EF_Frontend)
    - [Mentorship Platform Backend](https://github.com/empoweredfutures/EF_Back)
+   - [Mentorship Platform Rewrite](https://github.com/empoweredfutures/mentorship-platform-rewrite)
    - [Internal Project (Task Management App)](https://github.com/empoweredfutures/internalFE)
 
    You don't need access to all these repos just the ones you intend

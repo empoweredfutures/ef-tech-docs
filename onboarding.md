@@ -69,9 +69,10 @@ need to take to begin working with the rest of the team
 
    Your EF Google Calendar will have weekly meeting events
 
-   Currently for the IT team we have 1 meeting a week
+   Currently for the IT team we have 2 meetings a week
 
    - Tuesday @ 6:30PM EST, Tech and Innovation Sync Up
+   - Friday @ 1:30PM EST, Tech Sync Up
 
 1. Contributing Code
 

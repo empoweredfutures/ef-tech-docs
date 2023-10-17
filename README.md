@@ -15,3 +15,5 @@ This repo provides documentation for the EF tech stacks as well as onboarding an
 ### [Glossary](/glossary.md)
 
 ### [GraphQL TLDR](/graphql-tldr.md)
+
+### [Videos](/videos.md)

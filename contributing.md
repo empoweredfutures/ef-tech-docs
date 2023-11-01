@@ -1,6 +1,7 @@
 # Contributing
 
-There are several projects underway: 
+There are several projects underway:
+
 - the main mentorship platform and website (MP)
 - a rewrite of the codebase for the main mentorship platform
 - the internal onboarding/task management app (TMA)
@@ -66,7 +67,7 @@ Once you have access to a repo you can clone it locally and start coding. Clonin
 
 You'll need a `.env` file for some of the repos to run correctly, you can find these files on your EF google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`.
 
-`.env` files are typically only for backend repos but in the case of the task management app, both the backend and frontend are a single repo.
+`.env` files are typically only for backend repos but in the case of the task management app and the mentorship platform re-write, both the backend and frontend are a single repo.
 
 ### Branching
 

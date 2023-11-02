@@ -18,7 +18,7 @@ Before you get started, below are some key pre-requisites we all have to comply 
 
 VSCode is the editor majority of the developers on the team are using and this document will assuming you are also using it.
 
-You are welcome to use other editors but you'll have tofigure out how to gain the same level of features covered here in your editor.
+You are welcome to use other editors but you'll have to figure out how to gain the same level of features covered here in your editor.
 
 ### Extensions
 

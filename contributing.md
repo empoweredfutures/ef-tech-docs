@@ -1,15 +1,14 @@
 # Contributing
 
-There are several projects underway:
+The current projects under development are:
 
-- the main mentorship platform and website (MP)
-- a rewrite of the codebase for the main mentorship platform
-- the internal onboarding/task management app (TMA)
-- a project to create mobile apps for the mentorship platform
+- a rewrite of the mentorship platform (MP)
+- an Android and iOS export of the MP
+- the task management app (TMA)
 
-To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/YYDqebhj/mentorship-platform) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app). If you're not a member yet, the invite links are in the [onboarding instructions](https://github.com/empoweredfutures/ef-tech-docs/blob/main/onboarding.md).
+To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/U4Hb1AED/mentorship-platform-rewrite) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app). If you're not a member yet, the invite links are in the [onboarding instructions](https://github.com/empoweredfutures/ef-tech-docs/blob/main/onboarding.md).
 
-You'll see a To-Do list. Feel free to add yourself to a card in the To-Do list (click on the card and add yourself as a mentor - or just hover over the card and press spacebar). Then move it the Doing list.
+You'll see a To-Do list. Feel free to add yourself to a card in the To-Do list (click on the card and add yourself as a member with the `join` button - or just hover over the card and press spacebar). Then move it the Doing list.
 
 That's it - you can make a branch (see below) and get to work!
 
@@ -29,10 +28,10 @@ You are welcome to use other editors but you'll have tofigure out how to gain th
   - Once installed edit your VSCode settings to format on save
   - `settings.json`:
 
-  ```
+  ```json
   {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
   ```
 
@@ -79,7 +78,7 @@ git branch button in the bottom left and choose `Create new branch`
 The branch naming convention for both backend and frontend is
 `MMDD-<meaningful-name>`.
 
-Once a branch is created you can safely commit to it, **never commit to main or development directly - always commit to your own branch**.
+Once a branch is created you can safely commit to it, **never commit to main directly - always commit to your own branch**.
 
 When you're ready to push your code to the remote repo, your command should look something like this:
 

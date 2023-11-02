@@ -1,17 +1,14 @@
 # Onboarding
 
-If you are new to the EF IT team this page details the steps you'll
-need to take to begin working with the rest of the team
+If you are new to the EF IT team this page details the steps you'll need to take to begin working with the rest of the team
 
 1. Join the EF Slack
 
    You'll have access to this Slack with your EF Google account. Please make sure you join with that email address.
 
-   Slack is used as the main method of communication within the
-   organization
+   Slack is used as the main method of communication within the organization
 
-   There is also a mobile app for Slack that can be used if you
-   prefer
+   There is also a mobile app for Slack that can be used if you prefer
 
    [Slack Link](https://join.slack.com/t/empowered-futures/shared_invite/zt-1hxgpij6a-J93vroAa9AfuHZhc4UZGog)
 
@@ -25,8 +22,7 @@ need to take to begin working with the rest of the team
 
    - [`#mentorship-platform`](https://empowered-futures.slack.com/archives/C04219RQTP1) - for development of the main mentorship platform
    - [`#native-mobile-dev`](https://empowered-futures.slack.com/archives/C05TMNZ4LUX) - for development of the mobile apps of the mentorship platform
-   - [`#internal-project`](https://empowered-futures.slack.com/archives/C04FFB45W5Q) - for development of the internal task management app 
-
+   - [`#internal-project`](https://empowered-futures.slack.com/archives/C04FFB45W5Q) - for development of the internal task management app
 
    **Once joined please introduce yourself in the `#technology-and-innovation` channel**
 
@@ -36,14 +32,9 @@ need to take to begin working with the rest of the team
 
    You'll have access to Trello with your EF google account
 
-   Trello is used by the development team to track tasks that need to
-   be accomplished week by week
-
-   Each week's tasks are referred to as a _sprint_
+   Trello is used by the development team to track tasks that need to be accomplished week by week
 
    The mentorship platform and the task management app have different boards
-
-   [Trello Mentorship Platform Board Invite Link](https://trello.com/invite/b/YYDqebhj/ATTI255eb7190978b439f0f2b7274ba2e46a16D7028D/mentorship-platform)
 
    [Trello Mentorship Platform Rewrite Board Invite Link](https://trello.com/invite/b/U4Hb1AED/ATTIb3604045753fc7673e72cf433206e9fa6F59D76E/mentorship-platform-rewrite)
 
@@ -51,18 +42,12 @@ need to take to begin working with the rest of the team
 
 1. Join the GitHub Repos
 
-   There are multiple repositories that are under active development
-   within the IT team
+   There are 2 projects that are under active development within the IT team
 
-   - [Mentorship Platform Frontend](https://github.com/empoweredfutures/EF_Frontend)
-   - [Mentorship Platform Backend](https://github.com/empoweredfutures/EF_Back)
    - [Mentorship Platform Rewrite](https://github.com/empoweredfutures/mentorship-platform-rewrite)
    - [Internal Project (Task Management App)](https://github.com/empoweredfutures/internalFE)
 
-   You don't need access to all these repos just the ones you intend
-   to work on
-
-   For access to a repo please mention (`@`) a Github admin on Slack in the #onboarding-devs channel and provide them with your github username
+   For access to the Github org please mention (`@`) a Github admin on Slack in the `#onboarding-devs` channel and provide them with your github username
 
    Github admins:
 
@@ -76,7 +61,7 @@ need to take to begin working with the rest of the team
 
    Currently for the IT team we have 2 meetings a week
 
-   - Tuesday @ 6:30PM EST, Tech and Innovation Sync Up
+   - Tuesday @ 8:00PM EST, Tech and Innovation Sync Up
    - Friday @ 1:30PM EST, Tech Sync Up
 
 1. Contributing Code

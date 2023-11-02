@@ -2,8 +2,7 @@
 
 Quick definitions for commonly used acronyms and abbreviations
 
-- MP = Main Project OR Mentorship Platform
-- IP = Internal Project
+- MP = Mentorship Platform
 - TMA = Task Management App (Internal Project)
 - FE = Frontend
 - BE = Backend

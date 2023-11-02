@@ -17,11 +17,16 @@ need to take to begin working with the rest of the team
 
    Please join the following channels:
 
-   - `#technology-and-innovation`
-   - `#onboarding-devs`
-   - `#dev-standups`
+   - [`#technology-and-innovation`](https://empowered-futures.slack.com/archives/C02F9BRQ3LL) - all designers, devs etc working on tech products
+   - [`#onboarding-devs`](https://empowered-futures.slack.com/archives/C04NZJN9C6Q) - to find your feet as a dev on the project and get set up
+   - [`#dev-standups`](https://empowered-futures.slack.com/archives/C054DRLUNKC) - to interact with the bot to report your progress and how you're feeling about the work each week
 
-   Once you're assigned to specific projects, you'll be able to join more specific channels for those.
+   Once you're assigned to specific projects, you'll be able to join one or more of the more specific channels for those. The main three are:
+
+   - [`#mentorship-platform`](https://empowered-futures.slack.com/archives/C04219RQTP1) - for development of the main mentorship platform
+   - [`native-mobile-dev`](https://empowered-futures.slack.com/archives/C05TMNZ4LUX) - for development of the mobile apps of the mentorship platform
+   - [`#internal-project`](https://empowered-futures.slack.com/archives/C04FFB45W5Q) - for development of the internal task management app 
+
 
    **Once joined please introduce yourself in the `#technology-and-innovation` channel**
 

@@ -43,13 +43,13 @@ You are welcome to use other editors but you'll have to figure out how to gain t
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-  - You'll need to run a postgres db for both projects and docker is the easiest way to do that
+  - You'll need to run a postgres db for both the MP and the TMA. Docker is the easiest way to do that
   - Instructions for installing docker can be found on [docker's official docs](https://docs.docker.com/get-docker/)
 
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 
   - Provides intelligence for graphql queries and mutations
-  - GraphQL is currently used only within the internal task management app
+  - GraphQL is now used within the MP and the TMA
 
 - [TailWindCSS](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
@@ -64,9 +64,7 @@ You are welcome to use other editors but you'll have to figure out how to gain t
 
 Once you have access to a repo you can clone it locally and start coding. Cloning can be done with the `git clone` command or with github desktop.
 
-You'll need a `.env` file for some of the repos to run correctly, you can find these files on your EF google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`.
-
-`.env` files are typically only for backend repos but in the case of the task management app and the mentorship platform re-write, both the backend and frontend are a single repo.
+You'll need a `.env` file for the repos to run correctly, you can find these files on your EF google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`.
 
 ### Branching
 

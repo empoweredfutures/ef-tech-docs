@@ -24,7 +24,7 @@ need to take to begin working with the rest of the team
    Once you're assigned to specific projects, you'll be able to join one or more of the more specific channels for those. The main three are:
 
    - [`#mentorship-platform`](https://empowered-futures.slack.com/archives/C04219RQTP1) - for development of the main mentorship platform
-   - [`native-mobile-dev`](https://empowered-futures.slack.com/archives/C05TMNZ4LUX) - for development of the mobile apps of the mentorship platform
+   - [`#native-mobile-dev`](https://empowered-futures.slack.com/archives/C05TMNZ4LUX) - for development of the mobile apps of the mentorship platform
    - [`#internal-project`](https://empowered-futures.slack.com/archives/C04FFB45W5Q) - for development of the internal task management app 
 
 

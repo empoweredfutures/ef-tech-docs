@@ -1,4 +1,4 @@
-# GraphQL TLDR
+# GraphQL FE TLDR
 
 ### Queries
 

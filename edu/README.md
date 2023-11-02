@@ -1,8 +1,8 @@
 # Education Docs
 
-## [GraphQL TLDR](./graphql-tldr.md)
+## [GraphQL FE TLDR](./gql-fe-tldr.md)
 
-- explains very briefly why gql exists as a solution to REST
+- explains quickly how gql benefits a frontend client application
 
 ## [REST to GraphQL](./rest-to-gql.md)
 

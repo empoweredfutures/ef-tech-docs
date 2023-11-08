@@ -4,6 +4,10 @@
 
 - explains quickly how gql benefits a frontend client application
 
+## [GQTY](./gqty.md)
+
+- explains the gqty lib, how it works, and why we're using it
+
 ## [REST to GraphQL](./rest-to-gql.md)
 
 - explains in detail the shortcomings of REST and how GraphQL solves them

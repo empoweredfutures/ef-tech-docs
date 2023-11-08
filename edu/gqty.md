@@ -2,7 +2,7 @@
 
 the gqty lib allows FE devs to write plain typescript code and then have the lib automatically generate the gql needed to fetch the data from the BE
 
-## Example
+## Queries
 
 here is how you would fetch a user and their name with a normal gql query
 
@@ -187,8 +187,51 @@ query {
 }
 ```
 
----
+## Mutations
 
-with that last example the case for gqty is made and thus we're using it now in the mp-rw and hopefully soon also in the TMA
+the syntax for writing a mutation is strange with gqty
+
+```tsx
+const [mutate, mutateRes] = useMutation(
+  (mutation, args: MutationArgs<'updateUser'>) => {
+    const user = mutation.updateUser({ name: args.name })
+    return user.id // you MUST return something from the response, the id is a common choice
+  },
+)
+```
+
+the `mutate` var is the function that calls the function passed to the `useMutation` call, the args parameter is not typed by default, the `MutationArgs` type is a helper type to infer what the args should be
+
+if you're wondering why it isn't typed even though we can infer the type, it is strange choice by the gqty team but it does allow for optionally not not providing an `args` parameter at all
+
+```tsx
+const [role, setRole] = useState<UserRole>()
+const [mutate, mutateRes] = useMutation((mutation) => {
+  const user = mutation.setOwnRole({ role: role })
+  return user.id
+})
+mutateRes.data
+//        ^? string
+```
+
+here no `args` is given allowing `mutate` to be called with no parameters, the needed variables are already referenced inside the mutation function
+
+`mutateRes` is a stateful variable also, it has `data`, `error`, and `loading` states. the main difference from other gql clients is that the `data` is dynamically typed by what you choose to return from your mutation callback, in the examples above `mutationRes.data` would be a string as `User.id` is a string
+
+```tsx
+const [mutate, mutateRes] = useMutation((mutation) => {
+  const user = mutation.setOwnRole({ role: role })
+  return {
+    id: user.id,
+    role: user.role,
+  }
+})
+mutateRes.data
+//        ^? { id: string, role: UserRole }
+```
+
+you can return any shape you want from the mutation callback just remember to include (select) at least one property from the type that is returned
+
+---
 
 for more info please see the gqty docs at https://gqty.vercel.app/

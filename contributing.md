@@ -58,6 +58,10 @@ You are welcome to use other editors but you'll have to figure out how to gain t
 - [GitHub PR's](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
   - Makes it very easy to work with PR's, provides the ability to submit reviews and suggestions from within VSCode
 
+## Setup your local dev Environment
+
+See the full setup guide [here](./edu/local-env-guides.md#initial-setup-of-your-local-dev-environment)
+
 ## Interacting with GitHub
 
 ### Cloning
@@ -118,6 +122,7 @@ Please help us progress with the development by reviewing PRs of other team memb
 Generally, we aim on getting at least two people to look over a PR and provide feedback and/or approval before merging it into `main` as a quality measure.
 
 To review an open PR:
+
 - Go to the GitHub repository and select the Pull Requests tab
 - Select a PR that needs more reviewers
 - Get familiar with the task of the PR (usually in the description and the linked Trello ticket)

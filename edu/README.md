@@ -1,5 +1,9 @@
 # Education Docs
 
+## [Local Environment Guides](./local-env-guides.md)
+
+- general guides to setting up your development environment
+
 ## [GraphQL FE TLDR](./gql-fe-tldr.md)
 
 - explains quickly how gql benefits a frontend client application

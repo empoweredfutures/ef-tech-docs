@@ -111,3 +111,20 @@ You are not allowed to be a reviewer on a PR that you have worked on / committed
 Anyone on the team is allowed to merge a PR if the PR has 2 approvals.
 
 When merging it is preferred that you use github's `squash and merge` function to keep the number of commits on the `main` branch low.
+
+### Reviewing a PR
+
+Please help us progress with the development by reviewing PRs of other team members.
+Generally, we aim on getting at least two people to look over a PR and provide feedback and/or approval before merging it into `main` as a quality measure.
+
+To review an open PR:
+- Go to the GitHub repository and select the Pull Requests tab
+- Select a PR that needs more reviewers
+- Get familiar with the task of the PR (usually in the description and the linked Trello ticket)
+- Check out the PR's branch and install and run the application
+- Test if the PR meets the ticket's expectations, regarding both functionality and design
+- Look into the code changes of the commits in the PR. Is it well implemented, understandable and good quality code? Here is a very detailed description of [things you might want to look at](https://google.github.io/eng-practices/review/reviewer/looking-for.html) for inspiration.
+
+After your inspection, provide feedback in the PR by leaving comments. If you have found any bugs, inconsistencies, problems or concerns regarding the implementation or design, please describe your findings. The creator of the PR can then answer and/or make changes to the implementation.
+
+When you are satisfied with the implementation, you can give your approval through a respective comment or GitHub's approval functionality.

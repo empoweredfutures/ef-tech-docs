@@ -2,7 +2,9 @@
 
 ## initial setup of your local dev environment
 
-- get the environment variables file `.env` from the [google drive](https://drive.google.com/drive/folders/1I5RhP9pw4k4I4CBjvbEn_1emIUOiY2qR)
+- get the environment variables file from the [google drive](https://drive.google.com/drive/folders/1I5RhP9pw4k4I4CBjvbEn_1emIUOiY2qR) for the project you are working on
+- rename the file from `project-name.env` to `.env`
+- place this file in the root of the project it belongs to
 - install docker
 - `compose` the postgres database by right clicking the `postgres.docker-compose.yml` file and choosing `compose up`
 - install node modules `npm i`

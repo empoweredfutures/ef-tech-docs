@@ -3,10 +3,10 @@
 The current projects under development are:
 
 - the mentorship platform (MP)
-- an Android and iOS export of the MP
+- an Android and iOS export of the mentorship platform (Native)
 - the task management app (TMA)
 
-To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/U4Hb1AED/mentorship-platform-rewrite) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app). If you're not a member yet, the invite links are in the [onboarding instructions](https://github.com/empoweredfutures/ef-tech-docs/blob/main/onboarding.md).
+To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/U4Hb1AED/mentorship-platform) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app). If you're not a member yet, the invite links are in the [onboarding instructions](./onboarding.md).
 
 You'll see a To-Do list. Feel free to add yourself to a card in the To-Do list (click on the card and add yourself as a member with the `join` button - or just hover over the card and press spacebar). Then move it the Doing list.
 
@@ -60,15 +60,17 @@ You are welcome to use other editors but you'll have to figure out how to gain t
 
 ## Setup your local dev Environment
 
-See the full setup guide [here](./edu/local-env-guides.md#initial-setup-of-your-local-dev-environment)
+See the full setup guide [here](./edu/local-env-guides.md)
 
 ## Interacting with GitHub
 
 ### Cloning
 
-Once you have access to a repo you can clone it locally and start coding. Cloning can be done with the `git clone` command or with github desktop.
+Once you have access to a repo you can clone it locally and start coding. Cloning can be done with the `git clone` command or with Github desktop.
 
-You'll need a `.env` file for the repos to run correctly, you can find these files on your EF google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`.
+You'll need a `.env` file for the repos to run correctly, you can find these files on your EF Google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`.
+
+Once you download a `.env` file place it in the root of it's project and rename it to just `.env`
 
 ### Branching
 

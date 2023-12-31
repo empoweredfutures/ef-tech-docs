@@ -36,16 +36,20 @@ If you are new to the EF IT team this page details the steps you'll need to take
 
    The mentorship platform and the task management app have different boards
 
-   [Trello Mentorship Platform Rewrite Board Invite Link](https://trello.com/invite/b/U4Hb1AED/ATTIb3604045753fc7673e72cf433206e9fa6F59D76E/mentorship-platform-rewrite)
+   [Trello Mentorship Platform Board Invite Link](https://trello.com/invite/b/U4Hb1AED/ATTIb3604045753fc7673e72cf433206e9fa6F59D76E/mentorship-platform)
 
    [Trello Task Management App Board Invite Link](https://trello.com/invite/b/eTfU1pUA/ATTIedd9406c37d6ec6a3e0b61d859dcdc19F554C18A/task-management-app)
 
+   [Trello Native App Board Invite Link](https://trello.com/invite/b/Iltz5N6c/ATTIc5d2496e6240b900a0ea7783d03f6e20242AE81F/native-apps)
+
 1. Join the GitHub Repos
 
-   There are 2 projects that are under active development within the IT team
+   Once you are invited to the EF Github org you will gain access to all the repos within the org
 
    - [Mentorship Platform](https://github.com/empoweredfutures/mentorship-platform)
-   - [Internal Project (Task Management App)](https://github.com/empoweredfutures/internalFE)
+   - [Task Management App](https://github.com/empoweredfutures/internalFE)
+   - [Android App](https://github.com/empoweredfutures/mentorship-platform-android)
+   - [iOS App](https://github.com/empoweredfutures/mentorship-platform-ios)
 
    For access to the Github org please mention (`@`) a Github admin on Slack in the `#onboarding-devs` channel and provide them with your github username
 

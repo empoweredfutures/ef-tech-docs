@@ -44,7 +44,7 @@ If you are new to the EF IT team this page details the steps you'll need to take
 
    There are 2 projects that are under active development within the IT team
 
-   - [Mentorship Platform Rewrite](https://github.com/empoweredfutures/mentorship-platform-rewrite)
+   - [Mentorship Platform](https://github.com/empoweredfutures/mentorship-platform)
    - [Internal Project (Task Management App)](https://github.com/empoweredfutures/internalFE)
 
    For access to the Github org please mention (`@`) a Github admin on Slack in the `#onboarding-devs` channel and provide them with your github username

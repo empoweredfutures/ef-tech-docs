@@ -2,7 +2,7 @@
 
 The current projects under development are:
 
-- a rewrite of the mentorship platform (MP)
+- the mentorship platform (MP)
 - an Android and iOS export of the MP
 - the task management app (TMA)
 

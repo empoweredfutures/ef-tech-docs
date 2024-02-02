@@ -52,6 +52,7 @@ this section outlines how to add users to the org using the `ef-user-req-tool` a
 - every user gets added to the "members" group but you'll have to add users to their specific committee group
 - in many case you must just add the user to the closest matching group name
   - for example "Mobile Developer" gets added to "technology" and "mobiledev", while "Talent Acquisition Specialist" just gets added to "talentacq" alone
+  - another example: a "Tech (Frontend)" and a "Tech (Backend)" both just get added to the "technology" group, but not "mobiledev"
   - you'll have to use your best judgement to assign users to their groups
   - if you are confident that a group / committee does not exist then you'll need to create the group much in the same way that you create a user
 

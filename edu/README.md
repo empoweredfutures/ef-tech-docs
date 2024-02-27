@@ -1,5 +1,9 @@
 # Education Docs
 
+## [Tips](./tips.md)
+
+- live examples of general programming tips
+
 ## [Local Environment Guides](./local-env-guides.md)
 
 - general guides to setting up your development environment

@@ -4,6 +4,10 @@
 
 - live examples of general programming tips
 
+## [Guides](./guides/README.md)
+
+- a collection of guides for tasks specific to our projects
+
 ## [Local Environment Guides](./local-env-guides.md)
 
 - general guides to setting up your development environment

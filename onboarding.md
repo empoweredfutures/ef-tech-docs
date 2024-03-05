@@ -34,7 +34,10 @@ If you are new to the EF IT team this page details the steps you'll need to take
 
    Trello is used by the development team to track tasks that need to be accomplished week by week
 
-   The mentorship platform and the task management app have different boards
+   Here is the invite link to the EF Trello organization:
+   [EF Trello Org Link](https://trello.com/invite/empoweredfutures1/ATTIca12cf4b50ccc1e1dafa06853cc618620F2D2E2D)
+
+   By joining the Org you gain access to all project boards we have, if you'd prefer you can use the links below to join specific boards instead
 
    [Trello Mentorship Platform Board Invite Link](https://trello.com/invite/b/U4Hb1AED/ATTIb3604045753fc7673e72cf433206e9fa6F59D76E/mentorship-platform)
 

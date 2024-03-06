@@ -16,7 +16,7 @@ ex: if the `User` model changed then you would also have to update `./src/server
 
 the type generation will help you here as it can suggest fields you're adding or mark fields you removed as an error
 
-anytime the prisma schema changes your [database will need to be reset](../local-env-guides.md/#resetting-your-database) to reflect the changes made
+anytime the prisma schema changes your [database will need to be reset](../local-env-guides.md#resetting-your-database) to reflect the changes made
 
 ## Changes to the Graphql Schema
 
@@ -34,4 +34,4 @@ you are not meant to edit `schema.generated.ts` manually, as the file name sugge
 
 anytime the graphql schema changes the GQTY schema must also be updated / re-generated
 
-you will likely need to see the [`gqty:gen` troubleshooting document](./troubleshooting-faq.md/#gqtygen-es-module-error) as there is a know issue with this script
+you will likely need to see the [`gqty:gen` troubleshooting document](./troubleshooting.md#gqtygen-es-module-error) as there is a know issue with this script

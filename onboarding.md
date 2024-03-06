@@ -60,7 +60,6 @@ If you are new to the EF IT team this page details the steps you'll need to take
 
    - Ricardo Maharaj
    - Jennifer Pelz
-   - Jamie Pantling
 
 1. Attend the Weekly Meetings
 

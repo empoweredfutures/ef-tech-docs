@@ -4,11 +4,11 @@ quick explainers for how to complete certain tasks and objectives
 
 ---
 
-### [Troubleshooting + FAQ](./troubleshooting-faq.md)
+### [Troubleshooting](./troubleshooting.md)
 
 common problems and known solutions
 
-### [Schema Generation](./schema-regen.md)
+### [Schema Generation](./schema-gen.md)
 
 how to generate schema files and keep the project in sync
 

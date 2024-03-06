@@ -1,6 +1,6 @@
-# Troubleshooting + FAQ
+# Troubleshooting
 
-### Docker
+## Docker
 
 check the your user has permission to use docker commands, if you are on linux you will likely need to follow the [post install steps](https://docs.docker.com/engine/install/linux-postinstall/)
 
@@ -14,7 +14,7 @@ you'll know when your docker is working correctly when:
 - running `docker version` on your cli returns successfully with the latest version info
 - running `docker run hello-world` on your cli returns successfully
 
-### Postgres
+## Postgres
 
 it is recommended that you [reset your database](../local-env-guides.md#resetting-your-database) every time you develop to ensure that you always have a clean db that is synced with the latest changes to the schema
 

@@ -19,3 +19,7 @@ how to use tailwind CSS icons in the projects
 ### [Azure Static Images](./azure-static-images.md)
 
 how to use the "storage manager" application to create new static image resources for frontend applications
+
+### [Switching Accounts](./switching-accounts.md)
+
+how to switch between 2 or more user accounts

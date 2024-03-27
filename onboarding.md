@@ -67,7 +67,7 @@ If you are new to the EF IT team this page details the steps you'll need to take
 
    Currently for the IT team we have 2 meetings a week
 
-   - Tuesday @ 8:00PM EST, Tech and Innovation Sync Up
+   - Tuesday @ 1:30PM EST, Tech and Innovation Sync Up
    - Friday @ 1:30PM EST, Tech Sync Up
 
 1. Contributing Code

@@ -6,13 +6,15 @@ The current projects under development are:
 - an Android and iOS export of the mentorship platform (Native)
 - the task management app (TMA)
 
-To contribute to the projects in Empowered Futures, check out the Trello boards for the [Mentorship Platform](https://trello.com/b/U4Hb1AED/mentorship-platform) and the internal [Task Management App](https://trello.com/b/eTfU1pUA/task-management-app). If you're not a member yet, the invite links are in the [onboarding instructions](./onboarding.md).
+To contribute to the projects in Empowered Futures, check out the [Task Management App](https://mango-ground-0adc9dc10.3.azurestaticapps.net).
 
-You'll see a To-Do list. Feel free to add yourself to a card in the To-Do list (click on the card and add yourself as a member with the `join` button - or just hover over the card and press spacebar). Then move it the Doing list.
+Once you've joined the "Tech" committee you can visit the committee tasks from the side menu. You'll see list of tasks that you can work on in the "Incomplete" section.
 
-That's it - you can make a branch (see below) and get to work!
+When you've decided on a task you want to start you can add yourself as a assignee on the task, then mark the task as "In Progress".
 
-Before you get started, below are some key pre-requisites we all have to comply with before writing and submitting code.
+That's it - you can make a branch (see below) and get started!
+
+Before you start coding, below are some key pre-requisites we all have to comply with.
 
 ## Editor Config
 
@@ -98,7 +100,7 @@ Opening the repo's github page in a browser after committing will show a button 
 
 Naming the PR the same name as the branch is acceptable if the branch name is meaningful enough.
 
-You should also write a description for your PR and provide additional info (such as links to design pages or trello tickets) to help reviewers understand your work / changes, if your PR depends on another PR or a backend change be sure to make note of this.
+You should also write a description for your PR and provide additional info (such as links to design pages or the TMA task link) to help reviewers understand your work / changes, if your PR depends on another PR or a backend change be sure to make note of this.
 
 Take advantage of the many labels available on the GitHub repo to add descriptors such as `needs reviewer`, `not ready yet`, or `dependency` to provide quick information to reviewers.
 
@@ -127,7 +129,7 @@ To review an open PR:
 
 - Go to the GitHub repository and select the Pull Requests tab
 - Select a PR that needs more reviewers
-- Get familiar with the task of the PR (usually in the description and the linked Trello ticket)
+- Familiarize yourself with the task the PR is addressing, the task is usually linked in the PR description
 - Check out the PR's branch and install and run the application
 - Test if the PR meets the ticket's expectations, regarding both functionality and design
 - Look into the code changes of the commits in the PR. Is it well implemented, understandable and good quality code? Here is a very detailed description of [things you might want to look at](https://google.github.io/eng-practices/review/reviewer/looking-for.html) for inspiration.

@@ -28,22 +28,13 @@ If you are new to the EF IT team this page details the steps you'll need to take
 
    Once you've joined the `#dev-standups` channel you'll be included in the weekly async standup message. each week the bot will message you and ask what you've been up to.
 
-1. Join the Trello
+1. Join the Task Management App (TMA)
 
-   You'll have access to Trello with your EF google account
+   The TMA is used by the development team to track our work, This is a custom application made by the IT team for internal use within EF. You'll only be able to login to the TMA with your EF google account
 
-   Trello is used by the development team to track tasks that need to be accomplished week by week
+   You can access the TMA using this link: https://mango-ground-0adc9dc10.3.azurestaticapps.net
 
-   Here is the invite link to the EF Trello organization:
-   [EF Trello Org Link](https://trello.com/invite/empoweredfutures1/ATTIca12cf4b50ccc1e1dafa06853cc618620F2D2E2D)
-
-   By joining the Org you gain access to all project boards we have, if you'd prefer you can use the links below to join specific boards instead
-
-   [Trello Mentorship Platform Board Invite Link](https://trello.com/invite/b/U4Hb1AED/ATTIb3604045753fc7673e72cf433206e9fa6F59D76E/mentorship-platform)
-
-   [Trello Task Management App Board Invite Link](https://trello.com/invite/b/eTfU1pUA/ATTIedd9406c37d6ec6a3e0b61d859dcdc19F554C18A/task-management-app)
-
-   [Trello Native App Board Invite Link](https://trello.com/invite/b/Iltz5N6c/ATTIc5d2496e6240b900a0ea7783d03f6e20242AE81F/native-apps)
+   Once logged in select the join committee prompt on your dashboard and join the "Tech" committee, more info on using the app can be found on [contributing](./contributing.md)
 
 1. Join the GitHub Repos
 

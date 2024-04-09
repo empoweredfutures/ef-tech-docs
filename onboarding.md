@@ -32,7 +32,7 @@ If you are new to the EF IT team this page details the steps you'll need to take
 
    The TMA is used by the development team to track our work, This is a custom application made by the IT team for internal use within EF. You'll only be able to login to the TMA with your EF google account
 
-   You can access the TMA using this link: https://mango-ground-0adc9dc10.3.azurestaticapps.net
+   You can access the TMA using this link: https://wonderful-tree-0ee814e0f.5.azurestaticapps.net
 
    Once logged in select the join committee prompt on your dashboard and join the "Tech" committee, more info on using the app can be found on [contributing](./contributing.md)
 

@@ -6,7 +6,7 @@ The current projects under development are:
 - an Android and iOS export of the mentorship platform (Native)
 - the task management app (TMA)
 
-To contribute to the projects in Empowered Futures, check out the [Task Management App](https://mango-ground-0adc9dc10.3.azurestaticapps.net).
+To contribute to the projects in Empowered Futures, check out the [Task Management App](https://wonderful-tree-0ee814e0f.5.azurestaticapps.net).
 
 Once you've joined the "Tech" committee you can visit the committee tasks from the side menu. You'll see list of tasks that you can work on in the "Incomplete" section.
 

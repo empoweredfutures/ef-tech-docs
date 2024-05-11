@@ -6,14 +6,14 @@
 
 - Explains the majority of the tech stack as it relates to the backend
 
-## REST to GraphQL
+## REST vs GraphQL Demo
 
-[YouTube Link](https://youtu.be/3wJ9VqOxnUE) | [Google Drive Link](https://drive.google.com/file/d/1G6y3lrZMmj7TcRvLSrx4i0qQFFKmOi4m/view?usp=drive_link)
+[Youtube Link](https://youtu.be/95Y-SARyamU)
 
-- Explains how GraphQL exists as a solution to REST
+- quickly demos a page loading with a rest api vs a graphql api
 
 ## Husky and Lint Staged
 
 [Youtube Link](https://youtu.be/zAzC0EZttYM)
 
-- How husky and lint-staged works with prettier
+- quickly explains how husky and lint-staged works with prettier

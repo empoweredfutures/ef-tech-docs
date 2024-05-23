@@ -17,3 +17,11 @@
 [Youtube Link](https://youtu.be/zAzC0EZttYM)
 
 - quickly explains how husky and lint-staged works with prettier
+
+## NextJS Fullstack Walkthrough
+
+a series of videos covering the stack we use in depth
+
+- [Part 1 - NextJS + NextAuth](https://www.youtube.com/watch?v=pLbhiF1Moeg)
+- [Part 2 - GraphQL + Pothos](https://www.youtube.com/watch?v=Zg8Lj9ZakR8)
+- [Part 3 - Urql](https://www.youtube.com/watch?v=46p7D6qhTEY)

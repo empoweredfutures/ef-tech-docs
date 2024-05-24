@@ -12,7 +12,7 @@ use the search bar to find the icon that matches what you are looking for and cl
 
 a popup will appear that has info about the icon
 
-you'll see a dropdown menu where it says "icon: ", click this and choose the tailwind css option
+you'll see a dropdown menu where it says `icon:`, click this and choose the `Tailwind CSS (dynamic)` option
 
 copy the string and paste it into the `className` attribute of the element where you want the icon to be
 

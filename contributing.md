@@ -2,11 +2,11 @@
 
 The current projects under development are:
 
-- the mentorship platform (MP)
-- an Android and iOS export of the mentorship platform (Native)
-- the task management app (TMA)
+- "EF Connect" (internally known as "mentorship platform")
+- Android and iOS ports of EF Connect
+- "Lets Go" (internally known as "task management app")
 
-To contribute to the projects in Empowered Futures, check out the [Task Management App](https://wonderful-tree-0ee814e0f.5.azurestaticapps.net).
+To contribute to the projects in Empowered Futures, check out [Lets Go](https://wonderful-tree-0ee814e0f.5.azurestaticapps.net).
 
 Once you've joined the "Tech" committee you can visit the committee tasks from the side menu. You'll see list of tasks that you can work on in the "Incomplete" section.
 
@@ -81,8 +81,7 @@ Once you're ready to make some changes you'll need to create a branch first.
 VSCode provides git integration automatically: you can click the
 git branch button in the bottom left and choose `Create new branch`
 
-The branch naming convention for both backend and frontend is
-`MMDD-<meaningful-name>`.
+The branch naming convention for both backend and frontend is `MMDD-<meaningful-name>`, where MM is the month and DD is the day of the branch was/is created
 
 Once a branch is created you can safely commit to it, **never commit to main directly - always commit to your own branch**.
 

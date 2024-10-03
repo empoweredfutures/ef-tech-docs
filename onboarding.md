@@ -23,6 +23,7 @@ You can also join one or multiple of these project specific channels:
 - [`#mentorship-platform`](https://empowered-futures.slack.com/archives/C04219RQTP1) - for development of the main "EF Connect" App
 - [`#native-mobile-dev`](https://empowered-futures.slack.com/archives/C05TMNZ4LUX) - for development of mobile apps
 - [`#internal-project`](https://empowered-futures.slack.com/archives/C04FFB45W5Q) - for development of the "Lets Go" app
+- [`#website-dev`](https://empowered-futures.slack.com/archives/C07326VKLJK) - for development of the EF website
 
 **Once joined please introduce yourself in the `#technology-and-innovation` channel**
 
@@ -42,6 +43,7 @@ Once you are invited to the EF Github org you will gain access to all the repos 
 
 - [EF Connect](https://github.com/empoweredfutures/mentorship-platform)
 - [Lets Go](https://github.com/empoweredfutures/internalFE)
+- [EF Website](https://github.com/empoweredfutures/EF_Website)
 - [Android App](https://github.com/empoweredfutures/mentorship-platform-android)
 - [iOS App](https://github.com/empoweredfutures/mentorship-platform-ios)
 

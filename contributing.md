@@ -2,9 +2,31 @@
 
 The current projects under development are:
 
-- "EF Connect" (internally known as "mentorship platform")
-- Android and iOS ports of EF Connect
-- "Lets Go" (internally known as "task management app")
+EF Connect
+“EF Connect” (internally known as "Mentorship Platform (MP)") is Empowered Futures’ core product. It is an online platform connecting young people seeking guidance (i.e., mentees) with experienced professionals (i.e., mentors) ready to mentor and support their growth. It allows mentees to create a profile, search for and send mentorship requests to mentors who are registered in the mentorship platform, and schedule meetings based on the mentors’ availability.
+Slack channel: #mentorship-platform
+GitHub link: https://github.com/empoweredfutures/mentorship-platform
+App: https://calm-moss-0b0b59d10.5.azurestaticapps.net/ ( still in development )
+You can check out the mentorship-platform readme for more information about the intent, flow, and features of the project.
+EF Website
+
+“EF Website” or just “Website”
+Slack channel: #website-dev
+GitHub link: https://github.com/empoweredfutures/EF_Website
+Deployed app: 
+
+Let’s Go
+“Let’s Go” (internally known as “Task Management App (TMA)” or “Internal FE”) is our internal project management tool. Designed to maximize efficiency, our app streamlines task assignments and accountability, helping us create, build, and support the Empowered Futures brand in fulfilling its mission.
+Slack channel: #internal-project
+GitHub link: https://github.com/empoweredfutures/internalFE
+Deployed app: https://go.empoweredfutures.ca/
+
+Android and iOS exports of EF Connect
+Slack channel: #native-mobile-dev
+GitHub link for the Android app: https://github.com/empoweredfutures/mentorship-platform-android
+GitHub link for the iOS app: https://github.com/empoweredfutures/mentorship-platform-ios
+App: Is still in development
+
 
 To contribute to the projects in Empowered Futures, check out [Lets Go](https://wonderful-tree-0ee814e0f.5.azurestaticapps.net).
 

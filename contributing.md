@@ -96,6 +96,24 @@ You'll need a `.env` file for the repos to run correctly, you can find these fil
 
 Once you download a `.env` file place it in the root of it's project and rename it to just `.env`
 
+### Picking up Tasks in Let’s Go app
+
+- The project name is usually included at the beginning of a task’s name
+- Frontend and backend tasks have the FE and BE labels, respectively
+
+How to assign yourself to a task and any guidelines associated with it, for example:
+- You can freely assign yourself to any task under the “To be started” tab if the task has no other assignees. To see the list of assignees, click on the task card and   
+  navigate to the “Assignee” section under the task’s description. To assign yourself, click on the blue pencil next to the “Assignee” title and select your name from the 
+  list of members.
+- If you see that the task of your interest is taken by someone else and if it’s a relatively new task, you can reach out to the member(s) assigned to it in Slack and ask 
+  if they would like to collaborate. Please do not assign yourself to the tasks that have other assignees without discussing it with the assignees first.
+
+How to update the status of the task and any guidelines, for example:
+- When a task is created by a team lead, its default state is “To be started”.
+- Once a task is in progress (i.e., when the assigned developer starts working on it), the status should be changed to “In progress”.
+- Once a task has been completed (i.e., the associated PR has been merged), the status should be changed to “Completed”.
+- All members are responsible for maintaining the up-to-date status of their tasks.
+
 ### Branching
 
 Once you're ready to make some changes you'll need to create a branch first.

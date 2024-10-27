@@ -1,4 +1,4 @@
-## 401 Unauthorized Troubleshooting
+# 401 Unauthorized Troubleshooting
 
 in almost all cases this is caused by not having a valid auth session in the application
 

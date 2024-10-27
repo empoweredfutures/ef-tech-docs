@@ -1,8 +1,4 @@
-## Iconify
-
-guide on how to add icons using iconify
-
----
+# Iconify
 
 we use `@iconify/tailwind` to add CSS icons to our frontend, this allows very easy usage and manipulation of these icons through tailwind
 

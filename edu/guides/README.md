@@ -2,23 +2,21 @@
 
 quick explainers for how to complete certain tasks and objectives
 
----
-
-### [Troubleshooting](./troubleshooting.md)
+### [Troubleshooting](./troubleshooting/README.md)
 
 common problems and known solutions
 
-### [Schema Generation](./schema-gen.md)
+### [Azure Static Images](./azure-static-images.md)
 
-how to generate schema files and keep the project in sync
+how to use the "storage manager" application to create new static image resources for frontend applications
 
 ### [Iconify](./iconify.md)
 
 how to use tailwind CSS icons in the projects
 
-### [Azure Static Images](./azure-static-images.md)
+### [Schema Generation](./schema-gen.md)
 
-how to use the "storage manager" application to create new static image resources for frontend applications
+how to generate schema files and keep the project in sync
 
 ### [Switching Accounts](./switching-accounts.md)
 

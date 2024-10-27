@@ -1,8 +1,4 @@
-## Azure Static Images
-
-guide on how to add images
-
----
+# Azure Static Images
 
 we use azure to host all of our static images, this means that there is no `/public/images` or `/public/assets` like in other projects
 

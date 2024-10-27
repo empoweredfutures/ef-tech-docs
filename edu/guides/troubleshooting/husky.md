@@ -1,4 +1,4 @@
-## Husky Troubleshooting
+# Husky Troubleshooting
 
 our projects use a tool called `husky` to ensure files committed to our repos meet certain standards
 
@@ -14,7 +14,7 @@ the easiest way to fix this error is to check the error message and see what fil
 
 if it's a prettier error a simple fix is to run `prettier -w <path to file>`
 
-this may be a sign that your editor is not setup to format your code on save using the prettier extension, it's strongly recommended that you do this to avoid prettier errors in the future, add this to your vscode's settings.json file
+this may be a sign that your editor is not setup to format your code on save using the prettier extension, it's strongly recommended that you do this to avoid prettier errors in the future, add this to your vscode's `settings.json` file
 
 ```json
 {
@@ -22,3 +22,5 @@ this may be a sign that your editor is not setup to format your code on save usi
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
 ```
+
+if you have this in `settings.json` but your code is still not being formatted you may have auto-saving on that is conflicting with prettier on-save formatting, it is recommended that you disable auto-save and use manual saving instead

@@ -1,5 +1,7 @@
 # GraphQL FE TLDR
 
+this page quickly details how graphql works on the client in contrast to standard rest apis
+
 ### Queries
 
 getting a list of users and their tasks:
@@ -54,7 +56,7 @@ const [res, refresh] = useQuery({
 })
 ```
 
-- fetches exactly what is required for the component, no more or less
+- fetches exactly what is required for the component or page, no more or less
 - related data is not fetched in `On+1` time on the client, the client makes less requests to the backend, transfers less data, and sees results faster
 - the frontend code has this `gql` string, frontend developers can easily see what data is being returned from the backend, they can add or remove properties from the string as the components grows or shrinks
 - the `gql` string will always match the returned JSON shape

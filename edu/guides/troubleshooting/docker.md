@@ -1,4 +1,4 @@
-## Docker Troubleshooting
+# Docker Troubleshooting
 
 check the your user has permission to use docker commands, if you are on linux you will likely need to follow the [post install steps](https://docs.docker.com/engine/install/linux-postinstall/)
 

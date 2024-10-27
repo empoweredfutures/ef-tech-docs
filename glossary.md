@@ -3,6 +3,7 @@
 Quick definitions for commonly used acronyms and abbreviations
 
 - MP = Mentorship Platform
+- LG = Lets Go (TMA)
 - TMA = Task Management App (Internal Project)
 - FE = Frontend
 - BE = Backend

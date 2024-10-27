@@ -4,16 +4,16 @@ This repo provides documentation for the EF tech stacks as well as onboarding an
 
 ## Contents
 
-### [Onboarding](/onboarding.md)
+### [Onboarding](./onboarding.md)
 
-### [Contributing](/contributing.md)
+### [Contributing](./contributing.md)
 
-### [Mentorship Platform](/mentorship-platform.md)
+### [Projects](./projects.md)
 
-### [Best Practices](/best-practices.md)
+### [Best Practices](./best-practices.md)
 
-### [Glossary](/glossary.md)
+### [Glossary](./glossary.md)
 
-### [Educational Docs](/edu/README.md)
+### [Educational Docs](./edu/README.md)
 
-### [Videos](/videos.md)
+### [Videos](./videos.md)

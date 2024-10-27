@@ -1,42 +1,34 @@
 # Contributing
 
-The current projects under development are:
+This page details steps to setup you local environment and start on a new task
 
-EF Connect
-“EF Connect” (internally known as "Mentorship Platform (MP)") is Empowered Futures’ core product. It is an online platform connecting young people seeking guidance (i.e., mentees) with experienced professionals (i.e., mentors) ready to mentor and support their growth. It allows mentees to create a profile, search for and send mentorship requests to mentors who are registered in the mentorship platform, and schedule meetings based on the mentors’ availability.
-Slack channel: #mentorship-platform
-GitHub link: https://github.com/empoweredfutures/mentorship-platform
-App: https://calm-moss-0b0b59d10.5.azurestaticapps.net/ ( still in development )
-You can check out the mentorship-platform readme for more information about the intent, flow, and features of the project.
-EF Website
+## Projects
 
-“EF Website” or just “Website”
-Slack channel: #website-dev
-GitHub link: https://github.com/empoweredfutures/EF_Website
-Deployed app: 
+See [Projects](./projects.md) for a list and summary of current projects being worked on by the tech committee, you may work on 1 or more of these projects at any time and switch between them at your preference
 
-Let’s Go
-“Let’s Go” (internally known as “Task Management App (TMA)” or “Internal FE”) is our internal project management tool. Designed to maximize efficiency, our app streamlines task assignments and accountability, helping us create, build, and support the Empowered Futures brand in fulfilling its mission.
-Slack channel: #internal-project
-GitHub link: https://github.com/empoweredfutures/internalFE
-Deployed app: https://go.empoweredfutures.ca/
+## Picking up Tasks in Let’s Go
 
-Android and iOS exports of EF Connect
-Slack channel: #native-mobile-dev
-GitHub link for the Android app: https://github.com/empoweredfutures/mentorship-platform-android
-GitHub link for the iOS app: https://github.com/empoweredfutures/mentorship-platform-ios
-App: Is still in development
+Check the "To Be Started" tab for your committee to see tasks you can start working on
 
+- The project name is usually included at the beginning of a task’s name
+- Frontend and backend tasks have the FE and BE labels, respectively
 
-To contribute to the projects in Empowered Futures, check out [Lets Go](https://wonderful-tree-0ee814e0f.5.azurestaticapps.net).
+How to assign yourself to a task and any guidelines associated with it, for example:
 
-Once you've joined the "Tech" committee you can visit the committee tasks from the side menu. You'll see list of tasks that you can work on in the "Incomplete" section.
+- You can freely assign yourself to any task under the “To be started” tab if the task has no other assignees. To see the list of assignees, click on the task card and navigate to the “Assignee” section under the task’s description.
+- To assign yourself, click on the blue pencil next to the “Assignee” title and select your name from the list of members.
+- If you see that the task of your interest is taken by someone else and if it’s a relatively new task, you can reach out to the member(s) assigned to it in Slack and ask if they would like to collaborate. Please do not assign yourself to the tasks that have other assignees without discussing it with the assignees first.
 
-When you've decided on a task you want to start you can add yourself as a assignee on the task, then mark the task as "In Progress".
+How to update the status of the task and any guidelines, for example:
 
-That's it - you can make a branch (see below) and get started!
+- When a task is created by a team lead, its default state is “To be started”.
+- Once a task is in progress (i.e., when the assigned developer starts working on it), the status should be changed to “In progress”.
+- Once a task has been completed (i.e., the associated PR has been merged), the status should be changed to “Completed”.
+- All members are responsible for maintaining the up-to-date status of their tasks.
 
-Before you start coding, below are some key pre-requisites we all have to comply with.
+## Setup your local dev Environment
+
+Please see the initial setup guide [here](./edu/local-env-guides.md)
 
 ## Editor Config
 
@@ -73,7 +65,6 @@ You are welcome to use other editors but you'll have to figure out how to gain t
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 
   - Provides intelligence for graphql queries and mutations
-  - GraphQL is now used within the MP and the TMA
 
 - [TailWindCSS](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
@@ -81,10 +72,6 @@ You are welcome to use other editors but you'll have to figure out how to gain t
 
 - [GitHub PR's](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
   - Makes it very easy to work with PR's, provides the ability to submit reviews and suggestions from within VSCode
-
-## Setup your local dev Environment
-
-See the full setup guide [here](./edu/local-env-guides.md)
 
 ## Interacting with GitHub
 
@@ -95,24 +82,6 @@ Once you have access to a repo you can clone it locally and start coding. Clonin
 You'll need a `.env` file for the repos to run correctly, you can find these files on your EF Google drive. You can find them under `Shared Drives > Technology & Innovation > Technology & Innovation Shared Space > env`.
 
 Once you download a `.env` file place it in the root of it's project and rename it to just `.env`
-
-### Picking up Tasks in Let’s Go app
-
-- The project name is usually included at the beginning of a task’s name
-- Frontend and backend tasks have the FE and BE labels, respectively
-
-How to assign yourself to a task and any guidelines associated with it, for example:
-- You can freely assign yourself to any task under the “To be started” tab if the task has no other assignees. To see the list of assignees, click on the task card and   
-  navigate to the “Assignee” section under the task’s description. To assign yourself, click on the blue pencil next to the “Assignee” title and select your name from the 
-  list of members.
-- If you see that the task of your interest is taken by someone else and if it’s a relatively new task, you can reach out to the member(s) assigned to it in Slack and ask 
-  if they would like to collaborate. Please do not assign yourself to the tasks that have other assignees without discussing it with the assignees first.
-
-How to update the status of the task and any guidelines, for example:
-- When a task is created by a team lead, its default state is “To be started”.
-- Once a task is in progress (i.e., when the assigned developer starts working on it), the status should be changed to “In progress”.
-- Once a task has been completed (i.e., the associated PR has been merged), the status should be changed to “Completed”.
-- All members are responsible for maintaining the up-to-date status of their tasks.
 
 ### Branching
 

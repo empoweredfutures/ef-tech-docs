@@ -13,13 +13,16 @@ Check the "To Be Started" tab for your committee to see tasks you can start work
 - The project name is usually included at the beginning of a task’s name
 - Frontend and backend tasks have the FE and BE labels, respectively
 
-How to assign yourself to a task and any guidelines associated with it, for example:
+How to assign yourself to a task:
 
 - You can freely assign yourself to any task under the “To be started” tab if the task has no other assignees. To see the list of assignees, click on the task card and navigate to the “Assignee” section under the task’s description.
 - To assign yourself, click on the blue pencil next to the “Assignee” title and select your name from the list of members.
 - If you see that the task of your interest is taken by someone else and if it’s a relatively new task, you can reach out to the member(s) assigned to it in Slack and ask if they would like to collaborate. Please do not assign yourself to the tasks that have other assignees without discussing it with the assignees first.
+- *You are encouraged to explore and contribute to any project within the EF community. Feel free to select any task that interests you; there's no need to confine yourself to just one application.*
 
-How to update the status of the task and any guidelines, for example:
+
+
+How to update the status of the task:
 
 - When a task is created by a team lead, its default state is “To be started”.
 - Once a task is in progress (i.e., when the assigned developer starts working on it), the status should be changed to “In progress”.
@@ -132,6 +135,8 @@ When merging it is preferred that you use github's `squash and merge` function t
 
 Please help us progress with the development by reviewing PRs of other team members.
 Generally, we aim on getting at least two people to look over a PR and provide feedback and/or approval before merging it into `main` as a quality measure.
+
+*It is essential for everyone to engage in reviewing the pull requests (PRs) of team members. Often, these reviews tend to pile up for team leads, making it a collective responsibility.*
 
 To review an open PR:
 

@@ -51,10 +51,9 @@ Github admins:
 
 Your EF Google Calendar will have weekly meeting events
 
-Currently for the IT team we have 2 meetings a week
+Currently for the IT team we have 1 meeting a week
 
-- Tuesday @ 1:30PM EST, Tech and Innovation Sync Up
-- Friday @ 1:30PM EST, Tech Sync Up
+- Monday @ 6:00PM EST, Tech StandUp
 
 ## Contributing Code
 

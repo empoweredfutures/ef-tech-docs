@@ -45,7 +45,6 @@ For access to the Github org please mention (`@`) a Github admin on Slack in the
 Github admins:
 
 - Ricardo Maharaj
-- Jennifer Pelz
 
 ## Attend the Weekly Meetings
 

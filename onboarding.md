@@ -52,7 +52,7 @@ Your EF Google Calendar will have weekly meeting events
 
 Currently for the IT team we have 1 meeting a week
 
-- Monday @ 6:00PM EST, Tech StandUp
+- Monday @ 7:00PM EST, Tech StandUp
 
 ## Contributing Code
 

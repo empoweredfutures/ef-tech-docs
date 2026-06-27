@@ -45,6 +45,9 @@ For access to the Github org please mention (`@`) a Github admin on Slack in the
 Github admins:
 
 - Ricardo Maharaj
+- Naveen Kumar
+- Ahmad Fatayerji
+- Kevin Garica
 
 ## Attend the Weekly Meetings
 
